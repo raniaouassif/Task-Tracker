@@ -1,5 +1,6 @@
 # Project
-Angular project app
+- Angular project app
+- Uses json server https://github.com/typicode/json-server
 ## Description
 Task tracker application supporting basic CRUD operations (POST' GET' PUT' DELETE)
 
